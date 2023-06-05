@@ -1,6 +1,6 @@
 {
-  "name": "Technical Tutorials",
-  "short_name": "Technical Tutorials",
+  "name": "Technical tutorials",
+  "short_name": "Technical tutorials",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
