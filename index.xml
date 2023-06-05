@@ -6,5 +6,14 @@
     <description>Recent content on Technical Tutorials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.jazt.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create an AWS EC2 Instance</title>
+      <link>https://www.jazt.cloud/aws-ec2/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jazt.cloud/aws-ec2/</guid>
+      <description>An EC2 instance is similar to a normal virtual machine. It only takes around 1 minute to deploy an instance.</description>
+    </item>
+    
   </channel>
 </rss>
