@@ -17,6 +17,15 @@ img {
     width: 20px;
 }
 
+table {
+    background-color: rgb(204, 204, 204);
+}
+
+td {
+    padding: 5px 10px 2px 10px;
+    background-color: rgb(204, 204, 204);
+}
+
 #top-bar {
     background-color: rgb(56, 56, 56);
     margin-top: 0px;
@@ -35,11 +44,6 @@ img {
     font-weight:900;
 }
 
-#titles {
-    margin-left: 80px;
-    padding: 5px;
-}
-
 #body-main {
     margin: 100px;
     background-color: rgb(204, 204, 204);
@@ -53,6 +57,14 @@ img {
     color: rgb(31, 31, 31);
 }
 
+#titles {
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.category {
+    background-color: rgb(204, 204, 204);
+}
 
 @media only screen and (max-width: 1200px) {
     * {
