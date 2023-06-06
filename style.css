@@ -2,6 +2,7 @@
     text-decoration: none;
     background-color: rgb(241, 241, 241);
     margin: 0px;
+    font-size: 100%;
 }
 
 div, p, a {
@@ -77,11 +78,14 @@ td {
 
     td {
         padding: 5px 10px 5px 5px;
-        min-width: 250px;
     }
 
     #body-main {
         margin: 0px;
+    }
+
+    .category {
+        font-size: 20px;
     }
 
     
