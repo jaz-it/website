@@ -74,6 +74,11 @@ td {
     #heading-main {
         font-size: 28px;
     }
+    td {
+        padding: 5px 20px 2px 20px;
+        background-color: rgb(204, 204, 204);
+        min-width: 210px;
+    }
 
     
 }
