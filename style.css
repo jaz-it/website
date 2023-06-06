@@ -77,12 +77,12 @@ td {
 
     #heading-sub {
         color: rgb(31, 31, 31);
-        font-size: 36px;
+        font-size: 40px;
     }
 
     td {
         padding: 5px 10px 5px 5px;
-        min-width: 400px;
+        min-width: 480px;
     }
 
     #body-main {
@@ -90,7 +90,7 @@ td {
     }
 
     .category {
-        font-size: 30px;
+        font-size: 36px;
     }
 
     
