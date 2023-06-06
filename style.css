@@ -53,10 +53,12 @@ td {
 
 #heading-main {
     text-align: center;
+    font-size: 24px;
 }
 
 #heading-sub {
     color: rgb(31, 31, 31);
+    font-size: 20px;
 }
 
 #titles {
@@ -73,11 +75,17 @@ td {
     }
 
     #heading-main {
-        font-size: 28px;
+        font-size: 35px;
+    }
+
+    #heading-sub {
+        color: rgb(31, 31, 31);
+        font-size: 30px;
     }
 
     td {
         padding: 5px 10px 5px 5px;
+        min-width: 450px;
     }
 
     #body-main {
