@@ -100,6 +100,7 @@ td {
     #top-button {
         margin: 10px;
         font-size: 30px;
+        vertical-align: top;
     }
 
     h2 {
