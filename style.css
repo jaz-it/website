@@ -46,9 +46,12 @@ td {
 }
 
 #logo {
-    margin: 10px 0px 0px 2px;
+    margin: 10px 0px 0px 5px;
     color: rgb(56, 228, 56);
     display: inline-block;
+}
+
+#top-button {
     font-weight:900;
 }
 
@@ -95,7 +98,7 @@ td {
     }
 
     #logo {
-        margin: 10px 10px 0px 10px;
+        margin: 10px 10px 0px 15px;
         color: rgb(56, 228, 56);
         display: inline-block;
         font-weight:900;
