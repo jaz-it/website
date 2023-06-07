@@ -39,15 +39,15 @@ td {
     margin-top: 0px;
 }
 
-#logo, #home, a, h2 {
+#home, a, h2 {
     margin: 10px;
     display: inline-block;
     font-weight:500;
 }
 
 #logo {
+    margin: 0px 0px 0px 2px;
     color: rgb(56, 228, 56);
-    margin: 10px;
     display: inline-block;
     font-weight:900;
 }
@@ -94,13 +94,20 @@ td {
         font-size: 42px;
     }
 
+    #logo {
+        margin: 0px 10px 0px 10px;
+        color: rgb(56, 228, 56);
+        display: inline-block;
+        font-weight:900;
+    }
+
     #heading-sub {
         color: rgb(31, 31, 31);
         font-size: 36px;
     }
 
     #body-main {
-        margin: 0px 150px 20px 150px;
+        margin: 0px 180px 20px 180px;
     }
 
     .category {
