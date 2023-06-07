@@ -19,6 +19,9 @@ h2 {
 
 a {
     color: rgb(179, 241, 171);
+    margin: 10px;
+    display: inline-block;
+    font-weight:500;
 }
 
 img {
@@ -36,12 +39,16 @@ td {
     min-width: 300px;
 }
 
+#a-no-margin {
+    margin: 0px;
+}
+
 #top-bar {
     background-color: rgb(56, 56, 56);
     margin-top: 0px;
 }
 
-#home, a {
+#home {
     margin: 10px;
     display: inline-block;
     font-weight:500;
