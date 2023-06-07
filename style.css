@@ -11,16 +11,18 @@ div, p, a {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 26px;
+    font-weight: 500;
+    margin: 10px;
+    display: inline-block;
 }
 
 a {
-    color: rgb(204, 204, 204);
+    color: rgb(106, 160, 99);
 }
 
 img {
-    vertical-align: top;
-    width: 20px;
+    width: 25px;
 }
 
 table {
@@ -39,24 +41,25 @@ td {
     margin-top: 0px;
 }
 
-#home, a, h2 {
+#home, a {
     margin: 10px;
     display: inline-block;
     font-weight:500;
 }
 
 #logo {
-    margin: 10px 0px 0px 5px;
-    color: rgb(56, 228, 56);
+    margin: 10px 10px 0px 15px;
     display: inline-block;
 }
 
 #top-button {
+    margin: 0px 0px 10px 10px;
+    font-size: 18px;
     font-weight:900;
 }
 
 #body-main {
-    margin: 100px 100px 100px 100px;
+    margin: 80px 100px 100px 100px;
     background-color: rgb(204, 204, 204);
 }
 
@@ -66,7 +69,7 @@ td {
 
 #heading-sub {
     color: rgb(31, 31, 31);
-    font-size: 20px;
+    font-size: 22px;
 }
 
 #titles {
@@ -93,15 +96,13 @@ td {
         vertical-align: 0px;
     }
 
-    h2 {
-        font-size: 48px;
+    #top-button {
+        margin: 10px;
+        font-size: 30px;
     }
 
-    #logo {
-        margin: 10px 10px 0px 15px;
-        color: rgb(56, 228, 56);
-        display: inline-block;
-        font-weight:900;
+    h2 {
+        font-size: 48px;
     }
 
     #heading-sub {
